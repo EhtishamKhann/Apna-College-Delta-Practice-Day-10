@@ -1,0 +1,19 @@
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(120, 181, 162);
+    border-radius: 10px;
+    display: grid;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+    grid-template-columns: 160px 160px 160px;
+
+}
+.boxes{
+    font-size: 50px;
+    text-align: center;
+    /* height: 70px;
+    width: 70px; */
+    background-color: burlywood;
+    border: 3px solid rgb(224, 147, 47) ;
+    border-radius: 10px;
+}
